@@ -85,8 +85,7 @@ theme_minimal() +
 theme(
 plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
 legend.title = element_text(size = 10),
-legend.text = element_text(size = 8)
-)
+legend.text = element_text(size = 8))
 ```
 
 The map show that states like California, Washington, and New York consistently have higher renewable energy use, while many central states remain lower. Over 2021–2023, several states show gradual increases, indicating a shift toward cleaner energy sources.
